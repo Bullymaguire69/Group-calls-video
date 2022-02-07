@@ -3,15 +3,15 @@
 ![logo](https://telegra.ph/file/824cba85b5b820fcd7dcd.jpg)
 ## Deploy
 ```
-$ git clone https://github.com/galihmrd/Group-calls-video
+$ git clone https://github.com/Bullymaguire69/Group-calls-video
 $ cd Group-calls-video
-$ git clone https://github.com/galihmrd/addon-vc etc
+$ git clone https://github.com/Bullymaguire69/addon-vc etc
 $ pip install -r requirements.txt
 $ python -m lib
 ```
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/galihmrd/Group-calls-video)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bullymaguire69/Group-calls-video)
 
 
 # Credit
